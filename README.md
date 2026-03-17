@@ -8,8 +8,6 @@ This project analyzes retail sales data to identify trends and generate business
 - Python
 - Pandas
 - Matplotlib
-- SQL
-- Power BI
 
 ## Dataset
 Retail sales dataset containing information about orders, products, sales, and regions.
