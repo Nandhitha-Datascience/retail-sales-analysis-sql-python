@@ -1,14 +1,18 @@
-# retail-sales-analysis-sql-python
-# Retail Sales Analysis
+# retail-sales-analysis
 
 ## Project Overview
 This project analyzes retail sales data to identify trends and generate business insights.
+
+## Dataset
+- Source (Superstore dataset)
+- Rows: 9994
+- Columns: 21 
 
 ## Tools Used
 - Python
 - Pandas
 - Matplotlib
-- SQL queries
+- SQL queries ((MySQL)
 - Power BI dashboard
 
 ## Dataset
