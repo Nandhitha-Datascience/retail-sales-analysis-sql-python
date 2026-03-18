@@ -34,8 +34,8 @@ LIMIT 10;
 
 -- Rank Products by Sales
 SELECT Product_Name,
-       SUM(Sales) AS Total_Sales,
-       RANK() OVER (ORDER BY SUM(Sales) DESC) AS Rank_Position
+SUM(Sales) AS Total_Sales,
+RANK() OVER (ORDER BY SUM(Sales) DESC) AS Rank_Position
 FROM orders
 GROUP BY Product_Name;
 
