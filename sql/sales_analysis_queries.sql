@@ -20,7 +20,7 @@ ORDER BY Total_Sales DESC;
 
 -- Monthly Sales Trend
 SELECT DATE_FORMAT(Order_Date, '%Y-%m') AS Month,
-       SUM(Sales) AS Monthly_Sales
+SUM(Sales) AS Monthly_Sales
 FROM orders
 GROUP BY Month
 ORDER BY Month;
