@@ -32,6 +32,19 @@ Retail sales dataset containing information about orders, products, sales, and r
 ## 📊 SQL Analysis
 ### 🏆Total Sales
 ![Total sales](images/Totalsales.png)
+### 🏆Total orders
+![Total orders](images/Totalorders.png)
+### 🏆Total 10 products
+![Total 10 Products](images/Top10orders.png)
+### 🏆Sales by Region
+![Sales by Region](images/SalesbyRegion.png)
+### 🏆Sales by Category
+![Sales by Category](images/SalesbyCategory.png)
+### 🏆Rank products by sales
+![Rank Products by Sales](images/RankProductsbySales.png)
+### 🏆Monthly Sales Trend
+![Monthly Sales Trend](images/MonthlySalesTrend.png)
+
 ## Repository Structure
 data/ → dataset used for analysis  
 retail_sales_analysis.ipynb → Python analysis notebook
