@@ -29,9 +29,6 @@ Retail sales dataset containing information about orders, products, sales, and r
 - Certain months show higher sales indicating seasonal demand.
 - A few products contribute a large portion of total sales.
 
-## SQL Analysis
-
-
 ## Repository Structure
 data/ → dataset used for analysis  
 retail_sales_analysis.ipynb → Python analysis notebook
