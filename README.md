@@ -25,9 +25,13 @@ Retail sales dataset containing information about orders, products, sales, and r
 - Top 10 Products by Revenue
 
 ## Key Insights
-- Technology category generates the highest revenue.
-- Certain months show higher sales indicating seasonal demand.
-- A few products contribute a large portion of total sales.
+- 39% revenue drop MoM.
+- Decline driven by X category.
+- Seasonal trend observed.
+
+## Business Impact
+- Suggest inventory planning
+- Suggest marketing strategy
 
 ## 📊 SQL Analysis
 ### 🏆Total Sales
