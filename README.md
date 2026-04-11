@@ -45,7 +45,7 @@ The dashboard provides a clear view of sales performance, profit trends, and the
 ### Monthly Sales Trend
 ![Monthly Sales Trend](images/MonthlySalesTrend.png)
 ### Dashboard
-![Retail Sales](Dashboard.png)
+![Retail Sales](Dashboard.jpeg)
 
 
 ## Conclusion
