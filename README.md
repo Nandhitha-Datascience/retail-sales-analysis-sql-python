@@ -1,54 +1,52 @@
-# retail-sales-analysis
+# Retail Sales Analysis Dashboard (Power BI)
 
-## Project Overview
-This project analyzes retail sales data to identify trends and generate business insights.
+## Overview
+This project focuses on analyzing retail sales data using Power BI to uncover key business insights.  
+The dashboard provides a clear view of sales performance, profit trends, and the impact of discounts on profitability.
 
-## Dataset
-- Source (Superstore dataset)
-- Rows: 9994
-- Columns: 21 
+##  Objectives
+- Analyze sales performance across different product categories  
+- Identify trends in profit over time  
+- Understand the relationship between discount and profit  
+- Provide insights to support business decision-making  
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- SQL queries ((MySQL)
-- Power BI dashboard
+## Tools & Technologies
+- Power BI  
+- Python (for data understanding)  
+- SQL (for data querying)  
+- Excel / CSV dataset  
 
-## Dataset
-Retail sales dataset containing information about orders, products, sales, and regions.
-
-## Analysis Performed
-- Sales by Product Category
-- Monthly Sales Trend
-- Regional Sales Performance
-- Top 10 Products by Revenue
+## Dashboard Features
+- **Sales by Category** – Comparison of sales across product categories  
+- **Profit Trend Over Time** – Year-wise profit growth analysis  
+- **Discount vs Profit Analysis** – Scatter plot showing relationship between discount and profit  
+- **KPI Cards** – Total Sales and Total Profit  
+- **Interactive Filters** – Category-based filtering  
 
 ## Key Insights
-- 39% revenue drop MoM.
-- Decline driven by X category.
-- Seasonal trend observed.
+- Technology category has the highest sales among all categories  
+- Profit shows a steady growth over time  
+- Higher discounts tend to reduce profit, indicating a negative relationship  
 
-## Business Impact
-- Suggest inventory planning
-- Suggest marketing strategy
 
-## 📊 SQL Analysis
-### 🏆Total Sales
+## SQL Analysis
+### Total Sales
 ![Total sales](images/Totalsales.png)
-### 🏆Total orders
+### Total orders
 ![Total orders](images/Totalorders.png)
-### 🏆Total 10 products
+### Total 10 products
 ![Total 10 Products](images/Top10orders.png)
-### 🏆Sales by Region
+### Sales by Region
 ![Sales by Region](images/SalesbyRegion.png)
-### 🏆Sales by Category
+### Sales by Category
 ![Sales by Category](images/SalesbyCategory.png)
-### 🏆Rank products by sales
+### Rank products by sales
 ![Rank Products by Sales](images/RankProductsbySales.png)
-### 🏆Monthly Sales Trend
+### Monthly Sales Trend
 ![Monthly Sales Trend](images/MonthlySalesTrend.png)
+### Dashboard
+![Retail Sales](Dashboard.png)
 
-## Repository Structure
-data/ → dataset used for analysis  
-retail_sales_analysis.ipynb → Python analysis notebook
+
+## Conclusion
+This project demonstrates how data visualization can be used to extract meaningful insights and support business decisions.
